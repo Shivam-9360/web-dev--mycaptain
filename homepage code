@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JustQuotes</title>
+    </head>
+    <body>
+        <h1 >JustQuotes</h1>
+        <br><br>
+        <center>
+        <h2>login</h2>
+        <br><br>
+        <label>EMAIL</label><br>
+        <input type="email"  placeholder="manyagor@gmail.com">
+        <br><br><br>
+        <label>PASSWORD</label><br>
+        <input type="password"  placeholder="manya123">
+        <br><br><br>
+        <input type="submit">
+        </center>
+    </body>
+    
+</html>
